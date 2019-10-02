@@ -12,7 +12,7 @@ function App() {
         src="images/code-cobra-color.svg"
         alt="CodeCobra Logo"
       />
-      <h1>Coming Soon</h1>
+      <h1>Coming Soon!</h1>
     </div>
   );
 }
